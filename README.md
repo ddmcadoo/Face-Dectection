@@ -8,10 +8,10 @@ Goal: Detect and recognize faces in images using state-of-the-art deep learning 
 
 # Techniques Used:
 
-MTCNN (Multi-task Cascaded Convolutional Neural Network) for face detection (bounding boxes + landmarks).
+* MTCNN (Multi-task Cascaded Convolutional Neural Network) for face detection (bounding boxes + landmarks).
 
-Convolutional Neural Networks (CNNs) to extract high-level facial features.
+* Convolutional Neural Networks (CNNs) to extract high-level facial features.
 
-VGGFace embeddings to represent faces as feature vectors.
+* VGGFace embeddings to represent faces as feature vectors.
 
-Similarity metrics / classification layer for recognition (cosine similarity, SVM, or softmax
+* Similarity metrics / classification layer for recognition (cosine similarity, SVM, or softmax
